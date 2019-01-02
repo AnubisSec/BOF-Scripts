@@ -1,4 +1,8 @@
- ##!/usr/bin/python3
+ #!/usr/bin/python3
+
+# Author: AnubiSec - Dylan M
+	
+	
 import socket
 import sys
 import time
