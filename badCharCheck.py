@@ -1,5 +1,7 @@
-
 #!/usr/bin/python3
+
+# Author: AnubiSec - Dylan M
+
 from pwn import *
 
 
