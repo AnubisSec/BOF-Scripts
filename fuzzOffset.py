@@ -11,7 +11,7 @@ from pwn import * #pwntools
 
 
 if len(sys.argv) < 4:
-	print("\nUsage: " + sys.argv[0] + " <HOST> <PORT> $(pattern_offset -l <LENGTH NEEDED>) \n")
+	print("\nUsage: " + sys.argv[0] + " <HOST> <PORT> $(pattern_create -l <LENGTH NEEDED>) \n")
 	sys.exit()
 
 host = sys.argv[1]
