@@ -1,6 +1,10 @@
 #!/usr/bin/python
+
+# Author: AnubisSec
+
+# A quick a dirty little script that takes an address from your debugger (found using cyclic function) and finds the offest!
+
 from pwn import *
-import getpass
 
 def main():
 
