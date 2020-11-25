@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Author: AnubiSec - Dylan M
+# Author: AnubiSec
 
 import socket
 import sys
